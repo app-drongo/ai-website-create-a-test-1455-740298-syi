@@ -96,7 +96,7 @@ export default function Footer() {
                 <div className="size-10 rounded-lg bg-gradient-to-br from-primary to-primary/60 flex items-center justify-center">
                   <span className="text-primary-foreground font-bold">T</span>
                 </div>
-                <span className="font-bold text-xl">Test Website</span>
+                <span className="font-bold text-xl">Test Website2</span>
               </Link>
               <p className="text-muted-foreground text-sm leading-relaxed mb-6">
                 Building innovative digital solutions with cutting-edge technology and exceptional
